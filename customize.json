@@ -3,9 +3,9 @@
   "name": "麦麦",
   "imagePath": "img/1.jpg",
   "text1": "今天是你的生日:D",
-  "textInChatBox": "非常非常非常诚挚的祝你生日快乐！！！很多很多的快乐……",
-  "outroText": "我希望你喜欢这个小小的惊喜!",
-  "replayText": "如果你喜欢的话，可以再看一次哦!或者……",
+  "textInChatBox": "祝你生日快乐",
+  "outroText": "希望你喜欢这个项目",
+  "replayText": "再次播放",
   "outroSmiley": ":)",
   "music": "./music/bgMusic.mp3",
   "fonts": [
